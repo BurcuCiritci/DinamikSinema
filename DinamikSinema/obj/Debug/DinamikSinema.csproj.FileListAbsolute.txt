@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\DinamikSinema\DinamikSinema\bin\Debug\DinamikSinema.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DinamikSinema\DinamikSinema\bin\Debug\DinamikSinema.exe
+c:\users\user\documents\visual studio 2015\Projects\DinamikSinema\DinamikSinema\bin\Debug\DinamikSinema.pdb
+c:\users\user\documents\visual studio 2015\Projects\DinamikSinema\DinamikSinema\obj\Debug\DinamikSinema.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\DinamikSinema\DinamikSinema\obj\Debug\DinamikSinema.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\DinamikSinema\DinamikSinema\obj\Debug\DinamikSinema.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\DinamikSinema\DinamikSinema\obj\Debug\DinamikSinema.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\DinamikSinema\DinamikSinema\obj\Debug\DinamikSinema.exe
+c:\users\user\documents\visual studio 2015\Projects\DinamikSinema\DinamikSinema\obj\Debug\DinamikSinema.pdb
+C:\Users\user\documents\visual studio 2015\Projects\DinamikSinema\DinamikSinema\obj\Debug\DinamikSinema.frmSatis.resources
